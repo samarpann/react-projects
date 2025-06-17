@@ -1,0 +1,20 @@
+WHAT IS JSX?
+IN THIS U CAN USE JAVASCRIPT POWER IN HTML OR U CAN SAY U CAN USE OR WRITE JAVASCRIPTIN HTML
+IN THIS U NEED T OWRITE 'className' INSTEAD OF 'class' because class is a reservrd keyword in JAVASCRIPT
+
+hooks?
+hooks lets take a examle -->const[count,setcount ]=useState(0)in this count is a varaible and setcount is a function
+and useState(0) is a hook which means it is a functionwhich is used to use the state in functional component which means
+hooks let u use different react feauteres from  ur functional compoment YOU CAN USE the built in hooks
+and can build ur own hooks
+STATE HOOKS?
+it means state lets a compoment''remember'some data'amd whenever the data changes the component rerenders
+and the data is stored in the state  of the component
+hooks means in detail it is a function that lets u use state and othher react feature in functional compoment
+
+
+USEEFFECT HOOK?
+when a state is changed then react render complete component again and again 
+
+virtual dom?
+it is a copy of a real dom and it is lightweight and it is a copy of a 

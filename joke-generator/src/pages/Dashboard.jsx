@@ -1,6 +1,6 @@
 import { useContext, useState } from "react";
-import { JokeContext } from "../context/JokeContext";
-import JokeCard from "../components/JokeCard";
+import { JokeContext } from "../../../joke-generator/src/context/JokeContext";
+import JokeCard from "../../../joke-generator/src/components/JokeCard";
 
 const Dashboard = () => {
     const { jokes, fetchJokes } = useContext(JokeContext);  
